@@ -26,8 +26,8 @@ Print the output
 ### PROGRAM:
 ```py
 #Program to find number of words
-#Developed by: Tejaswini.G
-#RegisterNumber:22004187
+#Developed by: Aadhithya.M
+#RegisterNumber:22003465
 num = 0
 with open('MyFile.txt','r') as f1:
   for i in f1:
